@@ -1,0 +1,4 @@
+A função descobre e retorna o maior valor de um vetor do tipo int até o n-indice.
+Por exemplo se existe um vetor de tamanho 6, mas na hora da primeira chamada para função o valor de n
+for 4, a função irá retornar o maior valor apenas entre os quatro primeiros valores, ignorando os dois
+últimos.
